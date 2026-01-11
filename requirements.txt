@@ -3,3 +3,9 @@ uvicorn
 sqlalchemy
 psycopg2-binary
 pydantic
+streamlit
+pandas
+matplotlib
+scikit-learn
+numpy
+
